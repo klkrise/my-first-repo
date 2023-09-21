@@ -1,5 +1,5 @@
  #  My-first-repo  
- #  My Heading 2 
+ ##  My Heading 2 
   #  I got 3 Headings
   Unordered list 
 1. First item
