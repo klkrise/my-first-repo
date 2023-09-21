@@ -1,6 +1,6 @@
- # H1 my-first-repo  **bold**
- # H2  My Heading 2 **italic" 
- # H3 I got 3 Headings **bold**
+ #  my-first-repo  **bold**
+ #  My Heading 2 **italic" 
+ #  I got 3 Headings **bold**
  Unordered list 
 1. First item
 2. Second item
