@@ -1,5 +1,7 @@
- #  My-first-repo  
+ #  My-first-repo
+ My first repo
  ##  My Heading 2
+** italicized** Pretty cool
  ###  I got 3 Headings
   Unordered list 
 1. First item
