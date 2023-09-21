@@ -1,6 +1,6 @@
  #  My-first-repo  
  ##  My Heading 2
-**bold**  ###  I got 3 Headings
+ ###  I got 3 Headings
   Unordered list 
 1. First item
 2. Second item
