@@ -1,10 +1,8 @@
  #  my-first-repo  
  **bold**
  #  My Heading 2 
- **italic" 
- #  I got 3 Headings
- **bold**
- Unordered list 
+  #  I got 3 Headings
+  Unordered list 
 1. First item
 2. Second item
 3. Thrid item
