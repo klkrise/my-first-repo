@@ -1,19 +1,20 @@
  #  My-first-repo
  My first repo
- ##  My Heading 2
-Pretty cool
- ###  I got 3 Headings
+ ##  Learning How To Code!
+I am growing and progressing!
+ ###  Things I want to Learn in my Coding journey are.
   Unordered list 
-1. First item
-2. Second item
-3. Thrid item
+1. Understand Python, and R programming languages.
+2. Learn Data Analtics 
+3. Master SQL
+4. Network and learn from others
   ```
 { "First name": Kelly
 "Last name": Krise
-"age": 43 }
+"age": 44 }
 ```
 foot note  [^1] 
-I did it!
+I made it through my first project not so bad!
 
 
  
