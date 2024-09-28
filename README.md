@@ -1,5 +1,5 @@
- #  My-first-repo
- My first repo
+ #  My-first-Repo
+ My first Repo
  ##  Learning How To Code!
 I am growing and progressing!
  ###  Things I want to Learn in my Coding journey are.
@@ -10,7 +10,7 @@ I am growing and progressing!
 4. Network and learn from others
   ```
 { "First name": Kelly
-"Last name": Krise
+  "Last name": Krise
 "age": 44 }
 ```
 foot note  [^1] 
